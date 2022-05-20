@@ -1,0 +1,5 @@
+C:\devc++\uts pemrograman\utsannas\obj\Debug\net6.0\utsannas.csproj.AssemblyReference.cache
+C:\devc++\uts pemrograman\utsannas\obj\Debug\net6.0\utsannas.GeneratedMSBuildEditorConfig.editorconfig
+C:\devc++\uts pemrograman\utsannas\obj\Debug\net6.0\utsannas.AssemblyInfoInputs.cache
+C:\devc++\uts pemrograman\utsannas\obj\Debug\net6.0\utsannas.AssemblyInfo.cs
+C:\devc++\uts pemrograman\utsannas\obj\Debug\net6.0\utsannas.csproj.CoreCompileInputs.cache
